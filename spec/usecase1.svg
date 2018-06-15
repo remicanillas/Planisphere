@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
+   sodipodi:docname="usecase1.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1237"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1235"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1209"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1207"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path892"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:0.98347108;fill:#000000;fill-opacity:0.98347108"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1237-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1235-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path892-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:0.98347108;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.98347108"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="909.53597"
+     inkscape:cy="595.98038"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g92"
+       transform="matrix(0.688767,0,0,0.688767,-16.212691,15.796578)"
+       style="fill:none;stroke:#000000;stroke-width:1.58108616;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12"
+         d="M 71.437499,54.717253 C 30.199526,64.499215 92.123956,118.90394 96.56325,74.820568 97.141011,60.935751 81.070955,46.97265 67.657738,53.961299"
+         style="fill:none;stroke:#000000;stroke-width:1.58108616;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path14"
+         d="m 78.430054,90.17142 c 1.322923,16.70655 -2.412944,31.85687 0,47.62501"
+         style="fill:none;stroke:#000000;stroke-width:1.58108616;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path16"
+         d="m 78.694643,106.87797 c 3.299802,-2.59905 12.26481,-7.952494 17.764881,-11.33929"
+         style="fill:none;stroke:#000000;stroke-width:1.58108616;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path18"
+         d="M 78.694643,106.87797 C 73.367413,102.96589 67.370435,99.996364 62.441667,95.53868"
+         style="fill:none;stroke:#000000;stroke-width:1.58108616;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path20"
+         d="M 63.877975,151.85713 C 62.203734,134.35645 97.5516,133.08217 92.226191,152.23511"
+         style="fill:none;stroke:#000000;stroke-width:1.58108616;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.17499995px;line-height:1.25;stroke-width:0.26458332"
+       x="25.93589"
+       y="26.998678"
+       id="text115"><tspan
+         sodipodi:role="line"
+         id="tspan113"
+         x="25.93589"
+         y="26.998678"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.26458332">Active Mode</tspan></text>
+    <g
+       id="g928"
+       transform="translate(-34.017857,-0.37797619)">
+      <rect
+         rx="5.0781212"
+         ry="5.3453879"
+         y="58.584827"
+         x="96.378212"
+         height="27.79603"
+         width="19.243404"
+         id="rect922"
+         style="fill:#0000ff;fill-opacity:0.17355371;stroke:#000000;stroke-width:0.68900001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="6.4144688"
+         cy="72.482841"
+         cx="105.99989"
+         id="path924"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#0000ff;fill-opacity:0.13223141;fill-rule:evenodd;stroke:#000000;stroke-width:0.27145052;stroke-opacity:1"
+       id="rect934"
+       width="105.03007"
+       height="100.2808"
+       x="129.71109"
+       y="33.230652"
+       rx="7.4138908"
+       ry="4.8679857" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot29"
+       style="line-height:1.25"
+       transform="matrix(0.26458333,0,0,0.26458333,-52.142148,-6.9925595)"><flowRegion
+         id="flowRegion31"><rect
+           id="rect33"
+           width="177.85713"
+           height="33.571445"
+           x="380"
+           y="356.09113" /></flowRegion><flowPara
+         id="flowPara37"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Switch Button for changing mode</flowPara></flowRoot>    <rect
+       style="fill:#00c800;fill-opacity:0.13223141;fill-rule:evenodd;stroke:#000000;stroke-width:0.27145052;stroke-opacity:1"
+       id="rect934-0"
+       width="105.03008"
+       height="100.2808"
+       x="129.71109"
+       y="158.0352"
+       rx="7.4138908"
+       ry="4.8679857" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.13223141;fill-rule:evenodd;stroke:#000000;stroke-width:0.27145052;stroke-opacity:1"
+       id="rect934-3"
+       width="105.03008"
+       height="100.2808"
+       x="261.50757"
+       y="33.230652"
+       rx="7.4138908"
+       ry="4.8679857" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98347108;marker-end:url(#Arrow1Mend)"
+       d="m 182.22612,137.30539 v 15.50163"
+       id="path877"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1237)"
+       d="M 257.96153,83.371051 H 237.64905"
+       id="path879"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1323"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:0.13223141;stroke:#000000;stroke-width:2.51338577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98347108"
+       transform="matrix(0.53592806,0,0,0.53592806,-310.35339,-145.02296)"><flowRegion
+         id="flowRegion1325"><rect
+           id="rect1327"
+           width="210.61681"
+           height="25.253813"
+           x="1105.6119"
+           y="536.63123" /></flowRegion><flowPara
+         id="flowPara1329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none">Mode switching</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="26.836304"
+       y="133.71428"
+       id="text1333"><tspan
+         sodipodi:role="line"
+         id="tspan1331"
+         x="26.836304"
+         y="133.71428"
+         style="stroke-width:0.26458332">User</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="71.815475"
+       y="179.07143"
+       id="text4003"><tspan
+         sodipodi:role="line"
+         x="71.815475"
+         y="188.86101"
+         style="stroke-width:0.26458332"
+         id="tspan4005" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="157.23126"
+       y="44.059841"
+       id="text4011"><tspan
+         sodipodi:role="line"
+         id="tspan4009"
+         x="157.23126"
+         y="44.059841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Mode 1 : Boulot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="158.90802"
+       y="168.90689"
+       id="text4011-8"><tspan
+         sodipodi:role="line"
+         id="tspan4009-6"
+         x="158.90802"
+         y="168.90689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Mode 2 : Social</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="289.84897"
+       y="44.059841"
+       id="text4011-88"><tspan
+         sodipodi:role="line"
+         id="tspan4009-4"
+         x="289.84897"
+         y="44.059841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Mode 4 : Repos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="181.06529"
+       y="289.84869"
+       id="text4041"><tspan
+         sodipodi:role="line"
+         x="181.06529"
+         y="289.84869"
+         style="stroke-width:0.26458332"
+         id="tspan4051">+ Autre Mode(s) (sport, coding, etc) ?</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4091"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Cantarell;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Cantarell, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         id="flowRegion4093"><rect
+           id="rect4095"
+           width="357.59399"
+           height="294.96454"
+           x="666.70068"
+           y="162.87477" /></flowRegion><flowPara
+         id="flowPara4097"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:13.79527569px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-43.521521,11.453947)"><flowRegion
+         id="flowRegion4101"
+         style="line-height:13.79527569px"><rect
+           id="rect4103"
+           width="336.3808"
+           height="275.77164"
+           x="685.89355"
+           y="174.9966"
+           style="line-height:13.79527569px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4107">- Chrono for time spent in mode</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4111">- Specific TO DO List</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4150">- Gantt</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4113">- Pomodoro </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4115" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4099-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:13.79527569px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-43.346888,135.42417)"><flowRegion
+         id="flowRegion4101-7"
+         style="line-height:13.79527569px"><rect
+           id="rect4103-6"
+           width="336.3808"
+           height="275.77164"
+           x="685.89355"
+           y="174.9966"
+           style="line-height:13.79527569px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4107-3">- Chrono for time spent in mode</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4111-1">- Specific TO DO List</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4113-7">- Social Activites (what, who, where) </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:40.25196838px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara4115-5" /></flowRoot>    <g
+       id="g4176"
+       transform="translate(-42.71131,24.230603)">
+      <rect
+         ry="4.8679857"
+         rx="7.4138908"
+         y="133.8046"
+         x="304.21887"
+         height="100.2808"
+         width="105.03009"
+         id="rect934-3-9"
+         style="fill:#ff0000;fill-opacity:0.13223141;fill-rule:evenodd;stroke:#000000;stroke-width:0.27145052;stroke-opacity:1" />
+      <text
+         id="text4011-88-6"
+         y="144.67628"
+         x="333.4158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="144.67628"
+           x="333.4158"
+           id="tspan4009-4-2"
+           sodipodi:role="line">Mode 3 : Perso</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1237-1)"
+       d="m 235.98945,208.1756 h 22.39883"
+       id="path879-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98347108;marker-end:url(#Arrow1Mend-5)"
+       d="M 314.0226,153.65644 V 136.08515"
+       id="path877-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

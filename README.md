@@ -6,3 +6,5 @@ Note : The app will be a web-app at first, developed using the JHipster framewor
 
 More about JHipster : https://www.jhipster.tech/presentation/#/
 How to install JHipster : https://www.jhipster.tech/installation/
+
+![Usecase_1](./spec/usecase1.png)
