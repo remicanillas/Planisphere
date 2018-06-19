@@ -10,3 +10,5 @@ How to install JHipster : https://www.jhipster.tech/installation/
 ## Functional Description
 The following image describe how Planisphere (is going to) work(s) :
 ![Usecase_1](./spec/usecase1.png)
+
+![Usecase_2](./spec/usecase2.png)
